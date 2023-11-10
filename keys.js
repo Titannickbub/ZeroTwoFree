@@ -1,0 +1,1 @@
+exports.API_KEY_ALEATORY = "SUA_KEY"
