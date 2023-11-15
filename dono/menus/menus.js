@@ -260,14 +260,13 @@ const noticias = (prefix,NomeDoBot) => {
 `
 }
 
-const pesquisas = (prefix,NomeDoBot,sender) => {
+const pesquisas = (prefix,NomeDoBot) => {
 return `${aviso}
 ┏━━━━━━━━━━━
 ┃┌──────────
 ┃├${emoji} 🔍 PESQUISAS 🔍
 ┃├──────────
 ┃├${emoji}🤖BOT: ${NomeDoBot}
-┃├${emoji}👤USER: @${sender.split('@')[0]}
 ┃└──────────
 ┃┌──────────
 ┃├${emoji} 🧠 IAS 🧠
