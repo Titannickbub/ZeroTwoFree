@@ -3,7 +3,7 @@
 //Dinheiro a ser resgatado diariamente 
 const dinheiro_resgate = 100
 const emoji = ` `
-const aviso = `🙃Nos ajude a melhorar, envie suas sugestões pelo comando de sugestões`
+const aviso = ``
 
 const menu = (prefix, NomeDoBot, sender) => {
   //MENU PRINCIPAL 
